@@ -65,7 +65,7 @@ a{
     display:none;
 }
 .main{
-    background: url(.../img/background-main.jpg) right ;
+    background: url(../img/background-main.jpg) right ;
     min-height: 460px;
     -webkit-background-size: cover;
     background-size: cover;
@@ -189,7 +189,7 @@ a{
 }
 /* registration */
 .registration{
-    background: url(./img/reg-background.webp) center;
+    background: url(../img/reg-background.webp) center;
     min-height: 660px;
     height: 100vh;
     -webkit-background-size: cover;
@@ -244,7 +244,7 @@ input::placeholder {
 }
 .story{
     /* background: url(/img/story-bag.jpg); */
-    background: linear-gradient(180deg, #FFFFFF 16.02%, rgba(255, 255, 255, 0) 100%), url(./img/story-bag.jpg) center;
+    background: linear-gradient(180deg, #FFFFFF 16.02%, rgba(255, 255, 255, 0) 100%), url(../img/story-bag.jpg) center;
     min-height: 660px;
     height:  100vh;
     -webkit-background-size: cover;
