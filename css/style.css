@@ -305,6 +305,7 @@ input::placeholder {
 @media (max-width: 767px) {
     #menu__toggle {
     display:block;
+    opacity:0;
     }
     .menu__btn {
         display: flex; 
