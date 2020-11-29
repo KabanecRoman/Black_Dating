@@ -219,7 +219,7 @@ a{
 .registration__input{
     padding:10px;
     margin:10px 0; 
-    border: 2px solid #eee;
+    border: 2px solid #b5afaf;
 }
 input::placeholder {
     color: #989898;
