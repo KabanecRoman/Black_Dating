@@ -62,7 +62,7 @@ a{
 .navbar-main a:hover {color: #fff;}
 
 #menu__toggle {
-    opacity: 0;
+    display:none;
 }
 .main{
     background: url(/img/background-main.jpg) right ;
@@ -304,7 +304,7 @@ input::placeholder {
 
 @media (max-width: 767px) {
     #menu__toggle {
-        opacity: 0;
+    display:block;
     }
     .menu__btn {
         display: flex; 
